@@ -1,0 +1,26 @@
+{
+    "id": "C7311AC5",
+    "path": "~/Library/Mobile Documents/com~apple~CloudDocs/Documents/teaching/Emory/statistical_computing/BIOS731_course_content/labs/1_reproducible_computing/example_project/source/01_data_download.R",
+    "project_path": "source/01_data_download.R",
+    "type": "r_source",
+    "hash": "404678072",
+    "contents": "",
+    "dirty": false,
+    "created": 1721399283035.0,
+    "source_on_save": false,
+    "relative_order": 2,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "1,8",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1735933489,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1735933489188,
+    "read_only": false,
+    "read_only_alternatives": []
+}
