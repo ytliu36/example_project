@@ -1,0 +1,29 @@
+# Ignore all data files
+*.csv
+*.tsv
+*.txt
+*.dat
+*.json
+*.rds
+
+# Ignore all HTML files
+*.html
+
+# Ignore all figures
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.svg
+*.pdf
+
+# Ignore any figures directory
+figures/
+plots/
+output/
+
+# Ignore temporary files and system files
+.Rhistory
+.RData
+.DS_Store
+
